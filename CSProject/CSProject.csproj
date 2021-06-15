@@ -38,6 +38,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Attribute\DebugInfo.cs" />
+    <Compile Include="Attribute\Main.cs" />
+    <Compile Include="Attribute\Rectangle.cs" />
     <Compile Include="Chapter06\DisposeObject.cs" />
     <Compile Include="Chapter06\IterationSample.cs" />
     <Compile Include="Chapter06\IterationSampleIterator.cs" />

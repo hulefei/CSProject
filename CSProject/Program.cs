@@ -8,7 +8,8 @@ namespace CSProject
     public static void Main(string[] args)
     {
       // Console.WriteLine("hello");
-      Chapter06.Main.Run(args);
+      // Chapter06.Main.Run(args);
+      Attribute.Main.Run(args);
     }
   }
 }
